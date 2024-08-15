@@ -57,17 +57,11 @@ This repository contains implementations of various machine learning algorithms.
    - Boosting (AdaBoost, Gradient Boosting)
    - Stacking
 
-4. Neural Networks and Deep Learning
-   - Feedforward Neural Networks
-   - Convolutional Neural Networks (CNN)
-   - Recurrent Neural Networks (RNN)
-   - Long Short-Term Memory (LSTM)
-
-5. Dimensionality Reduction Techniques
+4. Dimensionality Reduction Techniques
    - t-SNE (t-Distributed Stochastic Neighbor Embedding)
    - UMAP (Uniform Manifold Approximation and Projection)
 
-6. Reinforcement Learning Algorithms
+5. Reinforcement Learning Algorithms
    - Q-Learning
    - SARSA (State-Action-Reward-State-Action)
    - Deep Q-Network (DQN)
