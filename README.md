@@ -26,12 +26,6 @@ There are three main types of machine learning:
      - Clustering (e.g., customer segmentation, anomaly detection)
      - Dimensionality reduction (e.g., feature extraction, visualization)
 
-3. **Reinforcement Learning**
-   - Reinforcement learning involves an agent learning to make decisions by interacting with an environment.
-   - The agent receives feedback in the form of rewards or penalties based on its actions.
-   - Examples include:
-     - Game playing (e.g., chess, Go)
-     - Robotics (e.g., autonomous vehicles, robot navigation)
 
 ## Contents of this Repository
 
@@ -61,10 +55,6 @@ This repository contains implementations of various machine learning algorithms.
    - t-SNE (t-Distributed Stochastic Neighbor Embedding)
    - UMAP (Uniform Manifold Approximation and Projection)
 
-5. Reinforcement Learning Algorithms
-   - Q-Learning
-   - SARSA (State-Action-Reward-State-Action)
-   - Deep Q-Network (DQN)
 
 Each algorithm is implemented in both Python and R, providing a comprehensive resource for machine learning practitioners and researchers. The implementations include:
 
@@ -74,8 +64,6 @@ Each algorithm is implemented in both Python and R, providing a comprehensive re
 - Visualization of results where applicable
 
 Note: This repository is continuously updated with new algorithms and improvements to existing implementations. Check back regularly for the latest additions and enhancements.
-
-
 
 
 ## Getting Started
